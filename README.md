@@ -1,4 +1,4 @@
-# node-demo
+# node-start
 
 nodejs使用npm管理包，基于commonjs规范
 
@@ -10,6 +10,7 @@ nodejs模块导出时可以使用
 
 
 ```
+	require('module.js')
   
 ```
 
